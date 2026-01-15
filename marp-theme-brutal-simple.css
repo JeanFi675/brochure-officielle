@@ -69,7 +69,9 @@ section {
 section {
   width: 794px;
   height: 1122px;
-  padding: 60px;
+  padding: 40px;
+  display: flex !important;
+  flex-direction: column !important;
   font-family: var(--font-body);
   background: var(--brutal-white);
   color: var(--brutal-black);
@@ -89,7 +91,7 @@ h1 {
   text-shadow: 3px 3px 0 var(--brutal-ice);
   text-transform: uppercase;
   line-height: 0.9;
-  margin: 0 0 30px -8px;
+  margin: 0 0 10px -8px; /* Marge réduite pour gagner de la place */
   transform: rotate(-0.3deg);
 }
 
@@ -605,3 +607,119 @@ hr {
     margin: 0 !important;
     display: inline !important;
   }
+
+/* === PUBLICITÉS / SPONSORS === */
+
+/* Conteneur principal qui fait EXACTEMENT la zone imprimable
+   A4 (210x297) - 20mm marges totales = 190mm x 277mm */
+.ad-wrapper {
+  width: 190mm;
+  height: 277mm;
+  /* Marge de sécurité pour éviter tout débordement millimétrique accidentel */
+  max-width: 100%;
+  max-height: 100%;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* Espacement entre les rangées (géré automatiquement par flex) */
+  gap: 10mm; 
+  padding: 0;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+/* --- RANGÉES (Lignes Horizontales) --- */
+/* Chaque .ad-row est une "ligne" de publicité */
+
+/* Ligne hauteur 1/4 (Standard) */
+.ad-row-1-4 {
+  flex: 1; /* Prend 1 part de hauteur */
+  width: 100%;
+  display: flex;
+  gap: 10mm; /* Espace entre les pubs côte à côte */
+}
+
+/* Ligne hauteur 1/2 (Double hauteur) */
+.ad-row-1-2 {
+  flex: 2; /* Prend 2 parts de hauteur */
+  width: 100%;
+  display: flex;
+  gap: 10mm;
+}
+
+/* Ligne hauteur 1/8 (Demi hauteur standard) */
+.ad-row-1-8 {
+  flex: 0.5; /* Prend 0.5 part */
+  width: 100%;
+  display: flex;
+  gap: 10mm;
+}
+
+
+/* --- ITEMS (Cellules individuelles) --- */
+
+/* Item largeur 100% */
+.w-full {
+  flex: 1;
+  height: 100%;
+}
+
+/* Item largeur 50% (côte à côte) */
+.w-half {
+  flex: 1; /* Se partage l'espace équitablement */
+  height: 100%;
+}
+
+/* --- STYLES TECH --- */
+
+/* L'encart publicitaire lui-même (conteneur de l'image) */
+.ad-slot {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+/* Image à l'intérieur de l'encart */
+.ad-slot img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* L'image s'adapte sans être coupée */
+  object-position: center;
+  
+  /* Style Neo-Brutal */
+  border: 3px solid var(--brutal-black);
+  box-shadow: 4px 4px 0 var(--brutal-ice);
+  background: var(--brutal-white);
+  padding: 0; /* Pas de padding interne pour maximiser l'image */
+  box-sizing: border-box;
+  
+  margin: 0 !important; /* Force le reset des marges par défaut de Marp */
+}
+
+/* Placeholder texte */
+.ad-slot span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background: var(--brutal-white);
+  border: 3px solid var(--brutal-black);
+  box-shadow: 4px 4px 0 var(--brutal-ice);
+  font-family: var(--font-mono);
+  font-size: 24px;
+  font-weight: bold;
+  color: var(--brutal-gray);
+  text-align: center;
+}
+
+/* Ajustement de la section pour supprimer tout padding parasite */
+section.ad-page {
+  padding: 10mm !important; /* 10mm de chaque côté = 20mm total sur la largeur/hauteur */
+  display: block !important; /* On gère le flex dans le wrapper */
+}
