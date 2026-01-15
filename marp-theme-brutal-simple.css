@@ -612,93 +612,101 @@ hr {
 
 /* Conteneur principal qui fait EXACTEMENT la zone imprimable
    A4 (210x297) - 20mm marges totales = 190mm x 277mm */
+/* === PUBLICITÉS / SPONSORS === */
+
+/* Conteneur principal */
 .ad-wrapper {
   width: 190mm;
   height: 277mm;
-  /* Marge de sécurité pour éviter tout débordement millimétrique accidentel */
   max-width: 100%;
   max-height: 100%;
   
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  /* Espacement entre les rangées (géré automatiquement par flex) */
+  justify-content: space-between; /* Répartition verticale */
   gap: 10mm; 
   padding: 0;
   margin: 0 auto;
   box-sizing: border-box;
+  overflow: visible !important; /* IMPORTANT : Laisse dépasser les ombres */
 }
 
 /* --- RANGÉES (Lignes Horizontales) --- */
 /* Chaque .ad-row est une "ligne" de publicité */
 
-/* Ligne hauteur 1/4 (Standard) */
-.ad-row-1-4 {
-  flex: 1; /* Prend 1 part de hauteur */
-  width: 100%;
-  display: flex;
-  gap: 10mm; /* Espace entre les pubs côte à côte */
-}
-
-/* Ligne hauteur 1/2 (Double hauteur) */
-.ad-row-1-2 {
-  flex: 2; /* Prend 2 parts de hauteur */
+.ad-row-1-4, .ad-row-1-2, .ad-row-1-8 {
   width: 100%;
   display: flex;
   gap: 10mm;
+  overflow: visible !important; /* Ne coupe jamais les enfants */
+  align-items: center; /* Centre verticalement les pubs si elles sont moins hautes */
 }
 
-/* Ligne hauteur 1/8 (Demi hauteur standard) */
-.ad-row-1-8 {
-  flex: 0.5; /* Prend 0.5 part */
-  width: 100%;
-  display: flex;
-  gap: 10mm;
-}
-
+/* Hauteurs indicatives pour le flex (la structure reste, les images peuvent déborder) */
+.ad-row-1-4 { flex: 1; }
+.ad-row-1-2 { flex: 2; }
+.ad-row-1-8 { flex: 0.5; }
 
 /* --- ITEMS (Cellules individuelles) --- */
 
-/* Item largeur 100% */
-.w-full {
-  flex: 1;
-  height: 100%;
-}
-
-/* Item largeur 50% (côte à côte) */
-.w-half {
-  flex: 1; /* Se partage l'espace équitablement */
-  height: 100%;
-}
+.w-full { flex: 1; }
+.w-half { flex: 1; }
 
 /* --- STYLES TECH --- */
 
-/* L'encart publicitaire lui-même (conteneur de l'image) */
 .ad-slot {
   position: relative;
   width: 100%;
-  height: 100%;
+  height: 100%; /* Occupe l'espace grille défini */
   display: flex;
   justify-content: center;
   align-items: center;
-  overflow: hidden;
+  overflow: visible !important; /* CRUCIAL : Affiche les ombres hors-cadre */
+  z-index: 1;
 }
 
 /* Image à l'intérieur de l'encart */
 .ad-slot img {
-  width: 100%;
-  height: 100%;
-  object-fit: contain; /* L'image s'adapte sans être coupée */
-  object-position: center;
+  /* "Largeur fixe" = Prend toute la largeur du slot */
+  width: 100% !important; 
+  
+  /* "Cadre s'adapte à l'image" = Hauteur automatique selon ratio */
+  height: auto !important; 
+  
+  display: block;
+  object-fit: contain;
   
   /* Style Neo-Brutal */
-  border: 3px solid var(--brutal-black);
-  box-shadow: 4px 4px 0 var(--brutal-ice);
+  border: 4px solid var(--brutal-black);
+  box-shadow: 6px 6px 0 var(--brutal-ice);
   background: var(--brutal-white);
-  padding: 0; /* Pas de padding interne pour maximiser l'image */
+  padding: 0; 
   box-sizing: border-box;
   
-  margin: 0 !important; /* Force le reset des marges par défaut de Marp */
+  margin: 0 !important;
+  transform-origin: center center;
+}
+
+/* Rotations Neo-Brutalist alternées ACCENTUÉES */
+.ad-slot:nth-child(odd) img {
+  transform: rotate(-1.5deg) !important;
+}
+
+.ad-slot:nth-child(even) img {
+  transform: rotate(1.5deg) !important; /* Symétrique (+/- 1.5) */
+}
+
+/* Gestion de l'empilement pour que l'ombre du dessus ne soit pas coupée par la ligne du dessous */
+.ad-row-1-4:hover, .ad-row-1-2:hover {
+  z-index: 10;
+}
+
+/* Effet Hover */
+.ad-slot img:hover {
+  transform: scale(1.03) rotate(0deg) !important;
+  box-shadow: 10px 10px 0 var(--brutal-black) !important;
+  z-index: 20;
+  position: relative;
 }
 
 /* Placeholder texte */
@@ -707,10 +715,11 @@ hr {
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: 100%;
+  height: auto;
+  aspect-ratio: 16/9; /* Ratio par défaut pour le texte */
   background: var(--brutal-white);
-  border: 3px solid var(--brutal-black);
-  box-shadow: 4px 4px 0 var(--brutal-ice);
+  border: 4px solid var(--brutal-black);
+  box-shadow: 6px 6px 0 var(--brutal-ice);
   font-family: var(--font-mono);
   font-size: 24px;
   font-weight: bold;
@@ -720,6 +729,7 @@ hr {
 
 /* Ajustement de la section pour supprimer tout padding parasite */
 section.ad-page {
-  padding: 10mm !important; /* 10mm de chaque côté = 20mm total sur la largeur/hauteur */
-  display: block !important; /* On gère le flex dans le wrapper */
+  padding: 10mm !important; 
+  display: block !important;
+  overflow: visible !important;
 }
