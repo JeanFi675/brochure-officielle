@@ -1,0 +1,23 @@
+{
+  "name": "brochure-officielle",
+  "version": "1.0.0",
+  "description": "Ce projet permet de générer une brochure officielle au format HTML/PDF à partir de fichiers Markdown en utilisant **Marp**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanFi675/brochure-officielle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeanFi675/brochure-officielle/issues"
+  },
+  "homepage": "https://github.com/JeanFi675/brochure-officielle#readme",
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
