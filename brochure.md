@@ -6,6 +6,79 @@ header: ""
 footer: ""
 ---
 
+<img src="img/01-Affiche.jpg">
+
+---
+
+# ÉDITO
+
+> **20 ans de grimpe : place au show !**
+>
+> Vingt ans que notre mur fait vibrer la vallée. Pour cet anniversaire, le club a fait le pari de casser les codes : plus qu’une compétition, nous avons voulu créer un **spectacle total** !
+>
+> Écran géant, DJ set, et danseurs pour ouvrir le bal des finales… C’est une véritable fête verticale que nous organisons main dans la main avec la **FFME** et le **Comité Territorial Haute-Savoie FFME**.
+>
+> Cet événement exceptionnel est **100 % gratuit** et soutenu par nos partenaires locaux.
+>
+> On vous attend nombreux pour faire vibrer la salle et propulser ces jeunes talents vers les sommets !
+
+<img src="pub/0.5/Plantaz.png" >
+
+---
+
+# En bref
+
+<div class="col-right">
+
+<div>
+
+#### Événement
+
+</div>
+
+<div>
+
+### Championnat de _France_ d’escalade de difficulté jeunes _2026_
+
+</div>
+</div>
+<hr>
+
+<div class="col-right">
+
+<div>
+
+#### Lieu
+
+</div>
+
+<div>
+
+### Saint‑Pierre‑en‑Faucigny
+
+</div>
+</div>
+<hr>
+
+<div class="col-right">
+
+<div>
+
+#### Dates
+
+</div>
+
+<div>
+
+### _16_ et _17_ mai _2026_
+
+</div>
+</div>
+
+<img src="img/03-grimpeuse.jpg" width="450">
+
+---
+
 <!-- _class: ad-page -->
 
 <div class="ad-wrapper">
