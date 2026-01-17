@@ -22,7 +22,9 @@ footer: ""
 >
 > On vous attend nombreux pour faire vibrer la salle et propulser ces jeunes talents vers les sommets !
 
-<img src="pub/0.5/Plantaz.png" >
+  <div class="ad-row-1-2">
+    <div class="ad-slot w-full"><img src="pub/0.5/Plantaz.png" alt="Plantaz" /></div>
+  </div>
 
 ---
 
@@ -75,7 +77,29 @@ footer: ""
 </div>
 </div>
 
-<img src="img/03-grimpeuse.jpg" width="450">
+  <div class="ad-row-1-4">
+    <div class="ad-slot w-full"><img src="pub/0.25/Besson TP.jpg" alt="Besson TP" /></div>
+  </div>
+
+---
+
+# ACCÈS & STATIONNEMENT
+
+<div>
+
+### LIEU DE L'ÉVÉNEMENT
+
+_Complexe Sportif du Pays Rochois_  
+110 rue des Alpes  
+74800 Saint-Pierre-en-Faucigny
+
+</div>
+
+<div>
+
+<img src="img/parking-plan.png" />
+
+</div>
 
 ---
 
