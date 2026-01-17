@@ -6,7 +6,7 @@
  */
 
 /* THEME BRUTAL SIMPLE - VERSION QUI FONCTIONNE */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Space+Grotesk:wght@400;700;900&family=Space+Mono:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Space+Grotesk:wght@400;700;900&family=Space+Mono:wght@700&display=swap");
 
 /* === CORRECTION EMOJIS MARP VS CODE === */
 /* Neutralise TOUS les styles appliqués aux images emoji */
@@ -21,18 +21,18 @@ em img[data-marp-twemoji] {
   border: none !important;
   box-shadow: none !important;
   padding: 0 !important;
-  
+
   /* Taille adaptée au texte */
   height: 1em !important;
   width: 1em !important;
   vertical-align: -0.1em !important;
-  
+
   /* Marges minimales */
   margin: 0 0.1em !important;
-  
+
   /* Pas de transformation */
   transform: none !important;
-  
+
   /* Reste en ligne */
   display: inline !important;
 }
@@ -57,12 +57,12 @@ em:not(:has(text)):has(img.emoji) {
 section {
   --brutal-black: #000000;
   --brutal-ice: #8bbfd5ff;
-  --brutal-white: #FFFFFF;
+  --brutal-white: #ffffff;
   --brutal-gray: #333333;
-  
-  --font-heading: 'Inter', Arial, sans-serif;
-  --font-body: 'Space Grotesk', sans-serif;
-  --font-mono: 'Space Mono', monospace;
+
+  --font-heading: "Inter", Arial, sans-serif;
+  --font-body: "Space Grotesk", sans-serif;
+  --font-mono: "Space Mono", monospace;
 }
 
 /* BASE - FORMAT A4 PORTRAIT OBLIGATOIRE */
@@ -75,7 +75,7 @@ section {
   font-family: var(--font-body);
   background: var(--brutal-white);
   color: var(--brutal-black);
-  font-size: 18px;   /* réduit la taille globale */
+  font-size: 18px; /* réduit la taille globale */
   line-height: 1.6;
   box-sizing: border-box;
   overflow: hidden;
@@ -140,7 +140,8 @@ h4 {
   margin: 20px 0 10px 0;
 }
 
-h5, h6 {
+h5,
+h6 {
   font-family: var(--font-heading);
   font-weight: 600;
   font-size: 16px;
@@ -181,12 +182,12 @@ img[data-marp-twemoji] {
   box-shadow: none !important;
   padding: 0 !important;
   margin: 0 2px !important;
-  
+
   /* Taille adaptée au texte environnant */
   height: 1em !important;
   width: 1em !important;
   vertical-align: -0.1em !important;
-  
+
   /* Pas d'effets de transformation */
   transform: none !important;
 }
@@ -500,7 +501,7 @@ section.black::after {
 /* CENTRAGE PARTIEL */
 .center {
   text-align: center;
-  margin: 20px auto;
+  margin: 0 auto;
 }
 
 .center-block {
@@ -510,6 +511,10 @@ section.black::after {
   flex-direction: column;
   margin: 20px 0;
 }
+
+/* Espacements Utilitaires */
+.mt-25 { margin-top: 25px !important; }
+.mt-35 { margin-top: 35px !important; }
 
 /* IMAGES */
 img {
@@ -581,32 +586,39 @@ hr {
     height: 297mm;
     padding: 20mm;
   }
-  
+
   * {
     animation: none !important;
     transition: none !important;
     transform: none !important;
   }
-  
-  h1, h2, h3 {
+
+  h1,
+  h2,
+  h3 {
     text-shadow: 1px 1px 0 var(--brutal-ice) !important;
   }
-  
-  li, a, blockquote, table, code, pre {
+
+  li,
+  a,
+  blockquote,
+  table,
+  code,
+  pre {
     box-shadow: 2px 2px 0 var(--brutal-ice) !important;
   }
 }
-  a[href^="mailto:"] {
-    color: inherit !important;
-    background: none !important;
-    border: none !important;
-    box-shadow: none !important;
-    padding: 0 !important;
-    text-transform: none !important;
-    font-weight: inherit !important;
-    margin: 0 !important;
-    display: inline !important;
-  }
+a[href^="mailto:"] {
+  color: inherit !important;
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  text-transform: none !important;
+  font-weight: inherit !important;
+  margin: 0 !important;
+  display: inline !important;
+}
 
 /* === PUBLICITÉS / SPONSORS === */
 
@@ -620,11 +632,11 @@ hr {
   height: 277mm;
   max-width: 100%;
   max-height: 100%;
-  
+
   display: flex;
   flex-direction: column;
   justify-content: space-between; /* Répartition verticale */
-  gap: 10mm; 
+  gap: 10mm;
   padding: 0;
   margin: 0 auto;
   box-sizing: border-box;
@@ -634,7 +646,9 @@ hr {
 /* --- RANGÉES (Lignes Horizontales) --- */
 /* Chaque .ad-row est une "ligne" de publicité */
 
-.ad-row-1-4, .ad-row-1-2, .ad-row-1-8 {
+.ad-row-1-4,
+.ad-row-1-2,
+.ad-row-1-8 {
   width: 100%;
   display: flex;
   gap: 10mm;
@@ -643,14 +657,24 @@ hr {
 }
 
 /* Hauteurs indicatives pour le flex (la structure reste, les images peuvent déborder) */
-.ad-row-1-4 { flex: 1; }
-.ad-row-1-2 { flex: 2; }
-.ad-row-1-8 { flex: 0.5; }
+.ad-row-1-4 {
+  flex: 1;
+}
+.ad-row-1-2 {
+  flex: 2;
+}
+.ad-row-1-8 {
+  flex: 0.5;
+}
 
 /* --- ITEMS (Cellules individuelles) --- */
 
-.w-full { flex: 1; }
-.w-half { flex: 1; }
+.w-full {
+  flex: 1;
+}
+.w-half {
+  flex: 1;
+}
 
 /* --- STYLES TECH --- */
 
@@ -668,21 +692,21 @@ hr {
 /* Image à l'intérieur de l'encart */
 .ad-slot img {
   /* "Largeur fixe" = Prend toute la largeur du slot */
-  width: 100% !important; 
-  
+  width: 100% !important;
+
   /* "Cadre s'adapte à l'image" = Hauteur automatique selon ratio */
-  height: auto !important; 
-  
+  height: auto !important;
+
   display: block;
   object-fit: contain;
-  
+
   /* Style Neo-Brutal */
   border: 4px solid var(--brutal-black);
   box-shadow: 6px 6px 0 var(--brutal-ice);
   background: var(--brutal-white);
-  padding: 0; 
+  padding: 0;
   box-sizing: border-box;
-  
+
   margin: 0 !important;
   transform-origin: center center;
 }
@@ -697,7 +721,8 @@ hr {
 }
 
 /* Gestion de l'empilement pour que l'ombre du dessus ne soit pas coupée par la ligne du dessous */
-.ad-row-1-4:hover, .ad-row-1-2:hover {
+.ad-row-1-4:hover,
+.ad-row-1-2:hover {
   z-index: 10;
 }
 
@@ -729,7 +754,7 @@ hr {
 
 /* Ajustement de la section pour supprimer tout padding parasite */
 section.ad-page {
-  padding: 10mm !important; 
+  padding: 10mm !important;
   display: block !important;
   overflow: visible !important;
 }

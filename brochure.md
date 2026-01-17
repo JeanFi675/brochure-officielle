@@ -85,21 +85,39 @@ footer: ""
 
 # ACCÈS & STATIONNEMENT
 
+<div class="cols2">
+
 <div>
 
 ### LIEU DE L'ÉVÉNEMENT
 
-_Complexe Sportif du Pays Rochois_  
-110 rue des Alpes  
+<div class="mt-35">
+
+_Complexe Sportif du Pays Rochois_
+
+<p class="mt-25">
+110 rue des Alpes<br>
 74800 Saint-Pierre-en-Faucigny
+</p>
 
 </div>
 
-<div>
+</div>
+<div class="center">
 
-<img src="img/parking-plan.png" />
+### COVOITURAGE
+
+[![w:130](img/qr-togetzer.png)](https://togetzer.com/covoiturage-evenement/mzdj77)
 
 </div>
+</div>
+
+<img src="img/parking-plan.png">
+
+  <!-- Correspond à 190 x 277/4 -->
+  <div class="ad-row-1-4">
+    <div class="ad-slot w-full"><img src="pub/0.25/VJ Menuiseries.jpg" alt="Besson TP" /></div>
+  </div>
 
 ---
 

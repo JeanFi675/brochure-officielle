@@ -46,7 +46,10 @@ const main = async () => {
     const filename = (nameInput.trim() || defaultName) + ".png";
     const filePath = path.join(imgDir, filename);
 
-    await QRCode.toFile(filePath, url);
+    await QRCode.toFile(filePath, url, {
+        margin: 1,
+        width: 1024
+    });
 
     console.log(`\n✅ QR Code généré avec succès : ${filePath}`);
     console.log("\n📋 Copiez ce snippet Markdown :");
