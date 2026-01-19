@@ -145,3 +145,44 @@ _Complexe Sportif du Pays Rochois_
   </div>
 
 </div>
+
+---
+
+# LE PROGRAMME
+
+<div class="cols2">
+<div>
+
+### SAMEDI 16 MAI
+
+_Qualifications_
+
+- **09h00 - 13h30 :**
+  U15 Femme
+  U17 Femme
+  U17 Homme
+- **14h30 - 19h00 :**
+  U15 Homme
+  U19 Femme
+  U19 Homme
+
+Venez découvrir les **futurs champions** lors de cette phase de sélection.
+
+</div>
+<div>
+
+### DIMANCHE 17 MAI
+
+_Finales_
+
+- **10h30** : Finales **U15**
+- **12h00** : Finales **U17**
+- **13h30** : Finales **U19**
+- Suivi par laCérémonie des Podiums
+
+Spectacle garanti avec DJ et animations pour l'ouverture des finales !
+
+</div>
+</div>
+
+> 💥 Vibrez au rythme des _qualifications_, tremblez pendant les _finales_… et assistez à la naissance des _futures stars_ de l'escalade !
