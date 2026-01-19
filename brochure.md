@@ -383,3 +383,38 @@ Déjà qualifiée aux France 4 années de suite ! Pauline est une **habituée de
 </div>
 
 ---
+
+# LE DICO DU SPECTATEUR
+
+### Pour comprendre ce dialecte tribal et briller à la buvette !
+
+<br>
+
+`Avoir les bouteilles` ou `Être daubé` Quand tes avant-bras sont durs comme du béton et que tes mains décident de faire grève sans ton accord.
+
+`Le Bac` La prise canapé, grosse et rassurante. Le seul endroit de la voie où tu peux reprendre ton souffle (et ta dignité).
+
+`La Réglette` L'inverse du bac. Une petite barrette horizontale, à peine assez profonde pour y poser le bout des doigts.
+
+`L'Aplat` Une prise toute ronde, fuyante, sans aucun rebord pour accrocher les doigts. C'est comme essayer de tenir un ballon de basket à une main.
+
+`Le Volume` Ces grosses structures géométriques (pyramides, cubes...) vissées sur le mur qui changent son relief.
+
+`Le Drapeau` Le grimpeur tend une jambe dans le vide, croisée derrière l'autre jambe d'appui. Ça évite de tourner comme une porte de saloon.
+
+`La Lolotte` Tordre son genou vers le bas de façon inquiétante pour se coller au mur. Ton orthopédiste déteste, mais tes bras adorent.
+
+`Le Jeté` Mode kangourou activé. Tu lâches tout et tu sautes vers la prochaine prise en priant pour que ça tienne.
+
+`Le Crux` C'est LE passage clé. Le moment le plus difficile de la voie.
+
+<div class="cols2"> 
+<div class="center">
+
+#### `TOUT COMPRENDRE` [![w:130](img/qr-regle-du-jeu.png)](https://fjd2026.caflarochebonneville.fr/blog/regles-competition-diff-mode-survie/)
+
+</div>
+<div class="ad-row-1-4">
+<div class="ad-slot w-half"><img src="pub/0.125/paysAGe.jpg">
+</div>
+</div>
