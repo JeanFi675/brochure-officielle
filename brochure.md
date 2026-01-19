@@ -161,6 +161,10 @@ _Qualifications_
   U15 Femme
   U17 Femme
   U17 Homme
+
+- **13h45 :**
+  Diffusion de Vale M la montagne
+
 - **14h30 - 19h00 :**
   U15 Homme
   U19 Femme
@@ -186,3 +190,121 @@ Spectacle garanti avec DJ et animations pour l'ouverture des finales !
 </div>
 
 > 💥 Vibrez au rythme des _qualifications_, tremblez pendant les _finales_… et assistez à la naissance des _futures stars_ de l'escalade !
+
+---
+
+# ANIMATIONS
+
+<div class="cols3">
+
+<!-- COLONNE 1 -->
+<div class="center-block">
+
+### LE FILM
+
+**Vale M la montagne**
+_Projection_
+
+<!-- Cadre Image Harmonisé -->
+<div style="
+  width: 100%;
+  height: 220px;
+  background: #ffffff;
+  border: 4px solid #000000;
+  box-shadow: 6px 6px 0 #8bbfd5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 15px 0;
+  padding: 10px;
+  box-sizing: border-box;
+">
+  <img src="img/animations/vale-m.jpg" style="
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border: none;
+    box-shadow: none;
+    margin: 0;
+  " />
+</div>
+
+Un film inspirant sur le dépassement de soi et l'amour de la grimpe.
+
+</div>
+
+<!-- COLONNE 2 -->
+<div class="center-block">
+
+### LE SON
+
+**DJ Acrino**
+_Live Mix_
+
+<!-- Cadre Image Harmonisé -->
+<div style="
+  width: 100%;
+  height: 220px;
+  background: #ffffff;
+  border: 4px solid #000000;
+  box-shadow: 6px 6px 0 #000000; /* Ombre noire pour varier (rythme) */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 15px 0;
+  padding: 10px;
+  box-sizing: border-box;
+  transform: rotate(1.5deg); /* Petite rotation fun */
+">
+  <img src="img/animations/dj-acrino.jpg" style="
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border: none;
+    box-shadow: none;
+    margin: 0;
+  " />
+</div>
+
+Ambiance survoltée assurée par DJ Acrino pour rythmer les finales.
+
+</div>
+
+<!-- COLONNE 3 -->
+<div class="center-block">
+
+### LE SHOW
+
+**HorsNormes**
+_Danse Hip-Hop_
+
+<!-- Cadre Image Harmonisé -->
+<div style="
+  width: 100%;
+  height: 220px;
+  background: #ffffff;
+  border: 4px solid #000000;
+  box-shadow: 6px 6px 0 #8bbfd5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 15px 0;
+  padding: 10px;
+  box-sizing: border-box;
+">
+  <img src="img/animations/horsnormes.jpg" style="
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    border: none;
+    box-shadow: none;
+    margin: 0;
+  " />
+</div>
+
+Démonstration spectaculaire par l'association de danse urbaine de Bonneville.
+
+</div>
+</div>
+
+> 🎬 **Une ambiance garantie** tout au long des phases finales !
