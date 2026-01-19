@@ -418,3 +418,50 @@ Déjà qualifiée aux France 4 années de suite ! Pauline est une **habituée de
 <div class="ad-slot w-half"><img src="pub/0.125/Au langage des Fleurs logo pour fournisseur fond gris.jpg">
 </div>
 </div>
+
+---
+
+# TROUVER MON CLUB
+
+> **Envie de grimper toute l'année ?** L'escalade, c'est encore mieux en club !
+
+<br>
+
+<div class="cols2">
+<div>
+
+### LA FÉDÉRATION FFME
+
+**Compétition & Performance**
+Trouvez les structures affiliées à la Fédération Française de la Montagne et de l'Escalade. Le top pour progresser en salle et viser les sommets !
+
+<div class="center">
+
+[![w:200](img/qr-ffme.png)](https://www.ffme.fr/ffme/espace-structure/carte-structures/)
+
+_Carte des clubs FFME_
+
+</div>
+
+</div>
+<div>
+
+### LES CLUBS FFCAM
+
+**Esprit Montagne & Aventure**
+Rejoignez les Clubs Alpins et de Montagne. Pour ceux qui rêvent de grandes voies, d'alpinisme et d'aventure en pleine nature.
+
+<div class="center">
+
+[![w:200](img/qr-ffcam.png)](https://www.ffcam.fr/recherche_clubs.html)
+
+_Recherche clubs FFCAM_
+
+</div>
+
+</div>
+</div>
+
+<br>
+
+> 💡 **Le saviez-vous ?** Beaucoup de clubs affiliés proposent les deux licences. Renseignez-vous près de chez vous !
