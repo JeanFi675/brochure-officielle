@@ -30,6 +30,8 @@ footer: ""
 
 # En bref
 
+<br>
+
 <div class="col-right">
 
 <div>
@@ -84,6 +86,8 @@ footer: ""
 ---
 
 # ACCÈS & STATIONNEMENT
+
+<br>
 
 <div class="cols2">
 
@@ -150,6 +154,8 @@ _Complexe Sportif du Pays Rochois_
 
 # LE PROGRAMME
 
+<br>
+
 <div class="cols2">
 <div>
 
@@ -187,10 +193,12 @@ _Finales_
 
 # ANIMATIONS
 
+<br>
+
 <div class="col-right">
 <div>
 
-<img src="img/animations/vale-m.jpg" width="160">
+<img src="img/animations/vale-m.jpg" width="150">
 
 </div>
 <div>
@@ -198,6 +206,9 @@ _Finales_
 <div class="center">
 
 ### LE FILM
+
+<br>
+<br>
 
 _Vale M la montagne_ **Projection**
 
@@ -212,6 +223,9 @@ Un film inspirant sur le dépassement de soi et l'amour de la grimpe.
 
 ### LE SON
 
+<br>
+<br>
+
 _DJ Acrino_ **Live Mix**
 
 Ambiance survoltée assurée par DJ Acrino pour rythmer les finales.
@@ -219,7 +233,7 @@ Ambiance survoltée assurée par DJ Acrino pour rythmer les finales.
 </div>
 <div>
 
-<img src="img/animations/dj-acrino.jpg" width="160">
+<img src="img/animations/dj-acrino.jpg" width="150">
 
 </div>
 </div>
@@ -228,18 +242,21 @@ Ambiance survoltée assurée par DJ Acrino pour rythmer les finales.
 <div class="cols2">
 <div>
 
-<img src="img/animations/horsnormes.jpg" width="280">
+<img src="img/animations/horsnormes.jpg" width="260">
 
 </div>
 <div>
 
 <div class="center">
 
-### LE FILM
+### LE SHOW
 
-_Vale M la montagne_ **Projection**
+<br>
+<br>
 
-Un film inspirant sur le dépassement de soi et l'amour de la grimpe.
+_Horsnormes_ **Break dance**
+
+Démonstration spectaculaire par l'association de danse urbaine de Bonneville.
 
 </div>
 </div>
