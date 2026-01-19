@@ -190,7 +190,7 @@ _Finales_
 <div class="cols3">
 
 <!-- COLONNE 1 -->
-<div class="center-block">
+<div>
 
 ### LE FILM
 
@@ -204,7 +204,7 @@ Un film inspirant sur le dépassement de soi et l'amour de la grimpe.
 </div>
 
 <!-- COLONNE 2 -->
-<div class="center-block">
+<div>
 
 ### LE SON
 
@@ -218,7 +218,7 @@ Ambiance survoltée assurée par DJ Acrino pour rythmer les finales.
 </div>
 
 <!-- COLONNE 3 -->
-<div class="center-block">
+<div>
 
 ### LE SHOW
 
