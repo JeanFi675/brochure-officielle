@@ -49,6 +49,7 @@ const main = async () => {
     await QRCode.toFile(filePath, url, {
         margin: 1,
         width: 1024,
+        version: 6, // Force une densité constante (Version 6)
         color: {
             light: '#8bbfd5ff'
         }
