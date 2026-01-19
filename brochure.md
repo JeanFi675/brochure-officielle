@@ -258,3 +258,63 @@ Place au show ! Les prodiges de l'asso bonnevilloise HorsNormes investissent la 
 
 </div>
 </div>
+
+---
+
+# NOS ESPOIRS
+
+<br>
+
+## Ils jouent à domicile, portent nos couleurs et sont prêts à tout donner !
+
+<br>
+
+<div class="cols2">
+<div>
+
+### ELIE TARDY (U15)
+
+<br>
+<br>
+
+**3ème national** Vainqueur en régional, c'est notre plus grande chance de finale ! Sauf pépin, Elie sera aux avant-postes pour faire vibrer la salle.
+
+</div>
+<div>
+
+### JOSUAH VEYRAT (U15)
+
+<br>
+<br>
+
+Aux portes de l'élite (**32ème national**), Josuah peut créer la surprise. Il est dans la zone de qualification et aura besoin de vos encouragements !
+
+</div>
+</div>
+
+<div class="cols2">
+<div>
+
+### JEAN PASCARD (U17)
+
+<br>
+<br>
+
+**34ème national** Jean est une valeur sûre. Sa constance et sa connaissance des lieux sont ses meilleurs atouts pour briller à la maison.
+
+</div>
+<div>
+
+### PAULINE GARCIA (U19)
+
+<br>
+<br>
+
+Déjà qualifiée aux France 4 années de suite ! Pauline est une **habituée des circuits nationaux**. Une solidité à toute épreuve pour représenter le club.
+
+</div>
+</div>
+
+#### On soutient aussi Lou, Jade, Lalie et Antoine pour la qualif !
+
+---
