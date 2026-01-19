@@ -261,8 +261,8 @@ ul {
 }
 
 li {
-  margin: 20px 0;
-  padding: 12px 16px;
+  margin: 10px 0;
+  padding: 12px 16px 12px 40px;
   background: var(--brutal-white);
   border: 3px solid var(--brutal-black);
   box-shadow: 4px 4px 0 var(--brutal-ice);
@@ -271,10 +271,22 @@ li {
 
 li::before {
   content: "▸";
+  position: absolute;
+  left: 16px;
+  top: 12px; /* Match li padding-top */
+  font-size: 1.2em;
+  line-height: 1.3333; /* 1.6 (parent lh) / 1.2 (font scale) = 1.3333 -> Ensures same line-box height */
   color: var(--brutal-ice);
   font-weight: 900;
-  margin-right: 12px;
-  font-size: 1.2em;
+}
+
+/* Fix alignment for loose lists (paragraphs) */
+li > p:first-child {
+  margin-top: 0;
+}
+
+li > *:last-child {
+  margin-bottom: 0;
 }
 
 /* CITATIONS */
@@ -762,6 +774,3 @@ section.ad-page {
   display: block !important;
   overflow: visible !important;
 }
-
-
-
