@@ -411,10 +411,10 @@ Déjà qualifiée aux France 4 années de suite ! Pauline est une **habituée de
 <div class="cols2"> 
 <div class="center">
 
-#### `TOUT COMPRENDRE` [![w:130](img/qr-regle-du-jeu.png)](https://fjd2026.caflarochebonneville.fr/blog/regles-competition-diff-mode-survie/)
+#### `TOUT COMPRENDRE` [![w:130](img/qr-dico.png)](https://fjd2026.caflarochebonneville.fr/blog/dico-survie-grimpeurs-championnat-france/)
 
 </div>
 <div class="ad-row-1-4">
-<div class="ad-slot w-half"><img src="pub/0.125/paysAGe.jpg">
+<div class="ad-slot w-half"><img src="pub/0.125/Au langage des Fleurs logo pour fournisseur fond gris.jpg">
 </div>
 </div>
