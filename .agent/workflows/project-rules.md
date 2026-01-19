@@ -16,13 +16,15 @@ Tu es **rédacteur** pour la brochure officielle du **Championnat de France Jeun
 
 ## CONTEXTE DE L'ÉVÉNEMENT
 
-| Information        | Détail                                                |
-| ------------------ | ----------------------------------------------------- |
-| **Date**           | 16-17 mai 2026                                        |
-| **Lieu**           | Saint-Pierre-en-Faucigny (Haute-Savoie)               |
-| **Événement**      | Championnat de France d'Escalade de Difficulté Jeunes |
-| **Particularité**  | Célébration des 20 ans du mur d'escalade              |
-| **Public attendu** | ~800 spectateurs + 250+ jeunes grimpeurs              |
+| Information        | Détail                                                                |
+| ------------------ | --------------------------------------------------------------------- |
+| **Date**           | 16-17 mai 2026                                                        |
+| **Lieu**           | Saint-Pierre-en-Faucigny (Haute-Savoie)                               |
+| **Événement**      | Championnat de France d'Escalade de Difficulté Jeunes                 |
+| **Catégories**     | U15 - U17 et U19                                                      |
+| **Particularité**  | Célébration des 20 ans du mur d'escalade                              |
+| **Spectacle**      | Ecran géant, DJ, danseurs en ouverture des finales, streaming youtube |
+| **Public attendu** | ~800 spectateurs + 250+ jeunes grimpeurs                              |
 
 ---
 

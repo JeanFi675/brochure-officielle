@@ -12,15 +12,15 @@ footer: ""
 
 # ÉDITO
 
-> **20 ans de grimpe : place au show !**
+> _Le Championnat de France Jeunes débarque en Haute-Savoie !_
 >
-> Vingt ans que notre mur fait vibrer la vallée. Pour cet anniversaire, le club a fait le pari de casser les codes : plus qu’une compétition, nous avons voulu créer un **spectacle total** !
+> C'est THE rendez-vous de l'escalade jeune en France. Plus de **300 grimpeurs** de 13 à 18 ans, l'élite nationale des catégories U15 à U19, vont en découdre sur notre mur pendant deux jours d'affrontements intenses. Objectif : décrocher le titre de **Champion de France**.
 >
-> Écran géant, DJ set, et danseurs pour ouvrir le bal des finales… C’est une véritable fête verticale que nous organisons main dans la main avec la **FFME** et le **Comité Territorial Haute-Savoie FFME**.
+> Cette compétition, nous l'organisons main dans la main avec la **FFME** et le **Comité Territorial Haute-Savoie**. On a mis les petits plats dans les grands pour accueillir ces jeunes talents et leurs familles dans les meilleures conditions.
 >
-> Cet événement exceptionnel est **100 % gratuit** et soutenu par nos partenaires locaux.
+> Et comme notre mur fête ses **20 ans** cette année... on a décidé de faire les choses en grand : écran géant, DJ et danseurs ouvriront le bal des finales !
 >
-> On vous attend nombreux pour faire vibrer la salle et propulser ces jeunes talents vers les sommets !
+> L'entrée est **100 % gratuite**, viens vibrer avec nous !
 
   <div class="ad-row-1-2">
     <div class="ad-slot w-full"><img src="pub/0.5/Plantaz.png" alt="Plantaz" /></div>
