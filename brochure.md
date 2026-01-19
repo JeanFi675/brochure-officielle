@@ -207,28 +207,26 @@ _Finales_
 
 ### LE FILM
 
-<br>
-<br>
-
 _Vale M la montagne_ **Projection**
 
-Un film inspirant sur le dépassement de soi et l'amour de la grimpe.
-
 </div>
+Une ode à la verticalité qui va vous donner des fourmis dans les doigts ! Venez vibrer devant ce récit inspirant où le dépassement de soi rencontre la beauté brute des sommets.
+
 </div>
 </div>
 
 <div class="col-left">
+<div>
+
 <div class="center">
 
 ### LE SON
 
-<br>
-<br>
-
 _DJ Acrino_ **Live Mix**
 
-Ambiance survoltée assurée par DJ Acrino pour rythmer les finales.
+</div>
+
+Le maître des platines savoyard débarque pour retourner la salle ! Avec son mix explosif Electro, Pop et Urbain, DJ Acrino va transformer les finales en véritable festival. Impossible de rester assis !
 
 </div>
 <div>
@@ -237,12 +235,13 @@ Ambiance survoltée assurée par DJ Acrino pour rythmer les finales.
 
 </div>
 </div>
-</div>
 
-<div class="cols2">
+<br>
+
+<div class="col-right">
 <div>
-
-<img src="img/animations/horsnormes.jpg" width="260">
+<br>
+<img src="img/animations/horsnormes.jpg">
 
 </div>
 <div>
@@ -251,13 +250,11 @@ Ambiance survoltée assurée par DJ Acrino pour rythmer les finales.
 
 ### LE SHOW
 
-<br>
-<br>
-
 _Horsnormes_ **Break dance**
 
-Démonstration spectaculaire par l'association de danse urbaine de Bonneville.
-
 </div>
+
+Place au show ! Les prodiges de l'asso bonnevilloise HorsNormes investissent la scène pour une démo de danse urbaine à couper le souffle. Énergie pure, acrobaties et flow dévastateur au programme.
+
 </div>
 </div>
