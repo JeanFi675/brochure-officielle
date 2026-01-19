@@ -48,7 +48,10 @@ const main = async () => {
 
     await QRCode.toFile(filePath, url, {
         margin: 1,
-        width: 1024
+        width: 1024,
+        color: {
+            light: '#8bbfd5ff'
+        }
     });
 
     console.log(`\n✅ QR Code généré avec succès : ${filePath}`);

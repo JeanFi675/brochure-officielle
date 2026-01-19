@@ -318,3 +318,68 @@ Déjà qualifiée aux France 4 années de suite ! Pauline est une **habituée de
 #### On soutient aussi Lou, Jade, Lalie et Antoine pour la qualif !
 
 ---
+
+# LES RÈGLES DU JEU
+
+<br>
+
+`LE DÉFI` Atteindre le _Top_ (la dernière prise) en 6 minutes max
+
+<br>
+
+`LE SCORE` Chaque prise a un numéro. Plus tu montes, plus le numéro est gros. Ton score, c'est la _dernière prise_ que tu as contrôlée
+
+<br>
+<br>
+
+## QUALIFS : MODE "FLASH"
+
+<div class="cols2"> 
+<div>
+
+- **2 voies** 1 seul essai par voie.
+</div>
+<div>
+
+- **DÉMO** Accès libre aux vidéos
+
+</div>
+</div>
+
+<br>
+<br>
+
+## FINALE : MODE "À VUE"
+
+<div class="cols3"> 
+<div>
+
+- Les **8 meilleurs** uniquement.
+  <br>
+
+</div>
+<div>
+
+- **Isolement** : interdiction de voir les autres.
+
+</div>
+<div>
+
+- **6 minutes** de lecture collective.
+  <br>
+
+</div>
+</div>
+
+<div class="cols2"> 
+<div>
+
+#### `Pour en savoir plus` [![w:130](img/qr-regle-du-jeu.png)](https://fjd2026.caflarochebonneville.fr/blog/regles-competition-diff-mode-survie/)
+
+</div>
+<div class="ad-row-1-4">
+<div class="ad-slot w-half"><img src="pub/0.125/paysAGe.jpg">
+</div>
+</div>
+
+---
