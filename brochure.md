@@ -187,49 +187,60 @@ _Finales_
 
 # ANIMATIONS
 
-<div class="cols3">
-
-<!-- COLONNE 1 -->
+<div class="col-right">
 <div>
+
+<img src="img/animations/vale-m.jpg" width="160">
+
+</div>
+<div>
+
+<div class="center">
 
 ### LE FILM
 
-**Vale M la montagne**
-_Projection_
-
-![Vale M la montagne](img/animations/vale-m.jpg)
+_Vale M la montagne_ **Projection**
 
 Un film inspirant sur le dépassement de soi et l'amour de la grimpe.
 
 </div>
+</div>
+</div>
 
-<!-- COLONNE 2 -->
-<div>
+<div class="col-left">
+<div class="center">
 
 ### LE SON
 
-**DJ Acrino**
-_Live Mix_
-
-![DJ Acrino](img/animations/dj-acrino.jpg)
+_DJ Acrino_ **Live Mix**
 
 Ambiance survoltée assurée par DJ Acrino pour rythmer les finales.
 
 </div>
-
-<!-- COLONNE 3 -->
 <div>
 
-### LE SHOW
-
-**HorsNormes**
-_Danse Hip-Hop_
-
-![HorsNormes](img/animations/horsnormes.jpg)
-
-Démonstration spectaculaire par l'association de danse urbaine de Bonneville.
+<img src="img/animations/dj-acrino.jpg" width="160">
 
 </div>
 </div>
+</div>
 
-> 🎬 **Une ambiance garantie** tout au long des phases finales !
+<div class="cols2">
+<div>
+
+<img src="img/animations/horsnormes.jpg" width="280">
+
+</div>
+<div>
+
+<div class="center">
+
+### LE FILM
+
+_Vale M la montagne_ **Projection**
+
+Un film inspirant sur le dépassement de soi et l'amour de la grimpe.
+
+</div>
+</div>
+</div>
