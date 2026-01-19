@@ -372,9 +372,9 @@ Déjà qualifiée aux France 4 années de suite ! Pauline est une **habituée de
 </div>
 
 <div class="cols2"> 
-<div>
+<div class="center">
 
-#### `Pour en savoir plus` [![w:130](img/qr-regle-du-jeu.png)](https://fjd2026.caflarochebonneville.fr/blog/regles-competition-diff-mode-survie/)
+#### `TOUT COMPRENDRE` [![w:130](img/qr-regle-du-jeu.png)](https://fjd2026.caflarochebonneville.fr/blog/regles-competition-diff-mode-survie/)
 
 </div>
 <div class="ad-row-1-4">
