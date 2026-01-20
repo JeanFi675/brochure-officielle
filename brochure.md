@@ -8,6 +8,8 @@ footer: ""
 
 <img src="img/01-Affiche.jpg">
 
+<!-- _paginate: false -->
+
 ---
 
 # ÉDITO
@@ -78,10 +80,6 @@ footer: ""
 
 </div>
 </div>
-
-  <div class="ad-row-1-4">
-    <div class="ad-slot w-full"><img src="pub/0.25/Besson TP.jpg" alt="Besson TP" /></div>
-  </div>
 
 ---
 
