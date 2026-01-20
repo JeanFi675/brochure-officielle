@@ -81,6 +81,24 @@ footer: ""
 </div>
 </div>
 
+<hr>
+
+<br>
+
+<div class="center">
+
+#### 🤝 Organisé par
+
+<br>
+<br>
+
+<div class="logos">
+<img src="img/logos/club-alpin-roche-bonneville.svg">
+<img src="img/logos/ct74-ffme.jpg">
+<img src="img/logos/logo-ffme-horizontal.svg">
+</div>
+</div>
+
 ---
 
 # ACCÈS & STATIONNEMENT
