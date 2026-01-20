@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: brutal-simple
-paginate: false
+paginate: true
 header: ""
 footer: ""
 ---
@@ -465,4 +465,61 @@ _Trouve un clubs FFCAM_
 </div>
 
 </div>
+</div>
+
+---
+
+# NOS PARTENAIRES
+
+<br>
+
+<div class="center">
+
+### PARTENAIRES OFFICIELS
+
+</div>
+
+<div class="logos">
+<img src="img/partenaires/au-vieux-campeur.png">
+<img src="img/partenaires/beal.png">
+</div>
+
+<br>
+<br>
+
+<div class="center">
+
+### PARTENAIRES DU CLUB
+
+</div>
+
+<div class="logos">
+<img src="img/partenaires/cheeta.png">
+<img src="img/partenaires/intersport.png">
+<img src="img/partenaires/camp.png">
+<img src="img/partenaires/ffcam74.png">
+</div>
+
+<div class="center">
+
+<br>
+<br>
+
+### PARTENAIRES INSTITUTIONNELS
+
+<br>
+
+</div>
+
+<div class="logos">
+<img src="img/partenaires/region-aura.png">
+<img src="img/partenaires/haute-savoie.png">
+<img src="img/partenaires/ccpr.png">
+<img src="img/partenaires/ors.png">
+</div>
+
+<div class="logos">
+<img src="img/partenaires/la-roche.png">
+<img src="img/partenaires/saint-pierre.png">
+<img src="img/partenaires/bonneville.png">
 </div>

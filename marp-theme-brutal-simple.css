@@ -566,23 +566,49 @@ img {
 .logos {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 15px; /* Gap between items */
   margin: 20px auto;
-  max-width: 700px;
+  max-width: 100%; /* Allow full width of the container */
   justify-content: center;
 }
 
 .logos img {
-  width: 194px;
-  height: 94px;
+  /* Calculation: (140px width + 10px pad + 6px border) * 4 + (15px gap * 3) = 156 * 4 + 45 = 624 + 45 = 669px */
+  /* Available space: 794px - 80px pad = 714px. 669px fits comfortably with margins for rotation. */
+  width: 140px; 
+  height: 80px; 
   object-fit: contain;
   object-position: center;
   border: 3px solid var(--brutal-black);
   box-shadow: 3px 3px 0 var(--brutal-ice);
   display: block;
-  margin: 0 auto;
+  margin: 5px; /* Margin for rotation space */
   background: var(--brutal-white);
-  padding: 3px;
+  padding: 5px;
+  transition: transform 0.2s ease;
+}
+
+/* Rotation Néo-Brutaliste aléatoire pour les logos */
+.logos img:nth-child(odd) {
+  transform: rotate(-2deg);
+}
+
+.logos img:nth-child(even) {
+  transform: rotate(2deg);
+}
+
+.logos img:nth-child(3n) {
+  transform: rotate(-1deg);
+}
+
+.logos img:nth-child(4n) {
+  transform: rotate(1.5deg);
+}
+
+.logos img:hover {
+  transform: scale(1.1) rotate(0deg);
+  box-shadow: 6px 6px 0 var(--brutal-black);
+  z-index: 10;
 }
 
 /* SEPARATEURS */
