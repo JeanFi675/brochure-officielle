@@ -103,11 +103,6 @@ footer: ""
 
 ---
 
-<div class="ad-row-1-4">
-  <!-- <div class="ad-slot w-half">...</div> -->
-  <div class="ad-slot w-half"><img src="pub/0.125/acces-industrie.jpg" alt="Acces-Industrie" /></div>
-</div>
-
 ---
 
 # ACCÈS & STATIONNEMENT
@@ -526,4 +521,28 @@ _Trouve un clubs FFCAM_
 <img src="img/partenaires/la-roche.png">
 <img src="img/partenaires/saint-pierre.png">
 <img src="img/partenaires/bonneville.png">
+</div>
+
+---
+
+# EXEMPLE DE LAYOUTS
+
+<div class="ad-wrapper">
+
+  <!-- 1 ligne : 2 pub 1/8 -->
+  <div class="ad-row-1-8">
+    <div class="ad-slot w-half"><img src="pub/0.125/acces-industrie.png" alt="Exemple 1/8 G" /></div>
+    <div class="ad-slot w-half"><img src="pub/0.125/acces-industrie.png" alt="Exemple 1/8 D" /></div>
+  </div>
+
+  <!-- 1 ligne : 1 pub 1/4 -->
+  <div class="ad-row-1-4">
+    <div class="ad-slot w-full"><img src="pub/0.25/besson-tp.jpg" alt="Exemple 1/4" /></div>
+  </div>
+
+  <!-- 1 ligne : 1 pub 1/2 -->
+  <div class="ad-row-1-2">
+    <div class="ad-slot w-full"><img src="pub/0.5/Plantaz.png" alt="Exemple 1/2" /></div>
+  </div>
+
 </div>

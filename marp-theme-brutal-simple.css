@@ -698,15 +698,41 @@ a[href^="mailto:"] {
   align-items: center; /* Centre verticalement les pubs si elles sont moins hautes */
 }
 
-/* Hauteurs indicatives pour le flex (la structure reste, les images peuvent déborder) */
-.ad-row-1-4 {
-  flex: 1;
-}
+/* Hauteurs indicatives supprimées à la demande de l'utilisateur > Le contenu dicte la hauteur */
+/* Largeur 100% forcée pour 1/4 et 1/2 */
+
+.ad-row-1-4,
 .ad-row-1-2 {
-  flex: 2;
+  flex: none;       /* Plus de distribution verticale forcée */
+  width: 100%;      /* Largeur forcée à 100% */
+  height: auto;     /* Hauteur naturelle selon image */
+  min-height: auto; 
 }
+
 .ad-row-1-8 {
-  flex: 0.5;
+  flex: none;       /* Plus de distribution verticale forcée */
+  width: 100%;      /* Largeur 100% du container (l'image fera 50% dedans si .ad-slot-half utilisé) */
+  height: auto;
+}
+
+/* --- VARIANTES D'ALIGNEMENT (Pour 1/8 ou autres) --- */
+.ad-row-1-8.left {
+  justify-content: flex-start;
+}
+
+.ad-row-1-8.right {
+  justify-content: flex-end;
+}
+
+/* Force une largeur de 50% pour un slot unique */
+.ad-slot-half {
+  width: calc(50% - 5mm) !important; /* 50% moins la moitié du gap (10mm) */
+  flex: none;
+}
+
+/* Rotation inversée force pour l'alignement à droite */
+.ad-row-1-8.right .ad-slot img {
+  transform: rotate(1.5deg) !important;
 }
 
 /* --- ITEMS (Cellules individuelles) --- */
