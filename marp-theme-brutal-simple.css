@@ -21,7 +21,7 @@ em img[data-marp-twemoji] {
   border: none !important;
   box-shadow: none !important;
   padding: 0 !important;
-
+  
   /* Taille adaptée au texte */
   height: 1em !important;
   width: 1em !important;
@@ -722,3 +722,88 @@ section.ad-page {
   overflow: visible !important;
 }
 
+
+/* === SCHEDULE CARD STYLE === */
+.schedule-card {
+  background: var(--brutal-white);
+  border: 6px solid var(--brutal-ice);
+  box-shadow: 12px 12px 0 var(--brutal-black);
+  padding: 20px;
+  margin: 20px auto;
+  position: relative;
+  max-width: 95%;
+}
+
+/* Adjust nested headings to sit nicely */
+.schedule-card h3 {
+  /* Keep standard style but adjust margins */
+  margin-right: 15px;
+  margin-bottom: 10px;
+  vertical-align: middle;
+}
+
+.schedule-card h2 {
+   /* Keep standard style */
+   vertical-align: middle;
+   font-size: 20px;
+}
+
+/* Time Banner - using Code Block */
+.schedule-card pre {
+  background: var(--brutal-black);
+  color: var(--brutal-ice);
+  text-align: center;
+  font-size: 30px;
+  font-weight: 900;
+  font-family: var(--font-heading);
+  padding: 10px;
+  transform: rotate(-1deg);
+  margin: 20px 0;
+  white-space: pre-wrap;
+  display: block;
+  border-color: var(--brutal-ice);
+  box-shadow: 6px 6px 0 var(--brutal-ice);
+}
+
+.schedule-card code {
+  background: none;
+  border: none;
+  box-shadow: none;
+  color: inherit;
+  font-family: inherit;
+  padding: 0;
+}
+
+/* List Items */
+.schedule-card ul {
+  margin-top: 20px;
+  padding-left: 10px;
+}
+
+.schedule-card li {
+  background: none;
+  border: none;
+  box-shadow: none;
+  padding: 5px 0;
+  margin: 10px 0;
+  font-size: 20px;
+  font-family: var(--font-body);
+  display: block; /* Reset flex if needed */
+}
+
+.schedule-card li::before {
+  content: "•";
+  color: var(--brutal-black);
+  font-size: 1.5em;
+  margin-right: 10px;
+  position: static; /* Reset absolute positioning from standard li */
+}
+
+.schedule-card strong {
+  /* Ensure strong inside list matches desired look */
+  background: none !important;
+  color: var(--brutal-black) !important;
+  font-weight: 900 !important;
+  border: none !important;
+  font-size: 1em;
+}

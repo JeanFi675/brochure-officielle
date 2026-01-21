@@ -162,46 +162,80 @@ _Complexe Sportif du Pays Rochois_
 
 ---
 
+<br>
+
+<img src="img/photos/mur.webp" class="ad-img rot-p2" width="85%">
+
+<br>
+
+---
+
 # LE PROGRAMME
 
 <br>
 
-<div class="cols2">
+<div class="schedule-card rot-m1">
+
+<div class="col-left">
 <div>
 
 ### SAMEDI 16 MAI
 
-_Qualifications_
+</div>
 
-- _09h00 - 13h30_
+_QUALIFICATIONS_
 
-  **U15 F** **U17 F** **U17 H**
+</div>
 
-- _13h45_
-  Diffusion de **Vale M la montagne**
+<br>
 
-- _14h30 - 19h00_
+**09h00** U15 Femmes / U17 Femmes / U17 Hommes
+**13h45** Diffusion de **Vale M la montagne**
+**14h30** U15 Hommes / U19 Femmes / U19 Hommes
 
-  **U15 H** **U19 F** **U19 H**
-  </div>
-  <div>
-
-### DIMANCHE 17 MAI
-
-_Finales_
-
-- _10h30_ Finales **U15**
-- _12h00_ Finales **U17**
-- _13h30_ Finales **U19**
-- Suivi par la **Cérémonie des Podiums**
 </div>
 </div>
+
+<br>
 
 > 💥 Vibrez au rythme des _qualifications_, tremblez pendant les _finales_… et assistez à la naissance des _futures stars_ de l'escalade !
 
 <br>
 
+<img src="img/photos/03-grimpeuse.jpg" class="ad-img rot-p1" width="550">
+
+---
+
+<div class="schedule-card rot-m1">
+
+<div class="col-left">
+<div>
+
+### DIMANCHE 17 MAI
+
+</div>
+
+_FINALES_
+
+</div>
+
+<br>
+
+**10h30** Finales U15
+**12h00** Finales U17
+**13h30** Finales U19
+Suivi par la **Cérémonie des Podiums**
+
+</div>
+</div>
+
+<br>
+
 <img src="pub/0.25/besson-tp.jpg" alt="Besson TP." class="ad-img rot-p1">
+
+<br>
+
+<img src="img/photos/05-grimpeur.jpg" class="ad-img rot-m2" width="480">
 
 ---
 
@@ -248,6 +282,12 @@ Le maître des platines savoyard débarque pour retourner la salle ! Avec son mi
 </div>
 </div>
 
+<br>
+
+<img src="pub/0.25/gale-giot.jpg" alt="Gale Giot" class="ad-img rot-p1">
+
+---
+
 <div class="col-right">
 <div>
 
@@ -263,34 +303,15 @@ Le maître des platines savoyard débarque pour retourner la salle ! Avec son mi
 
 _Vale M la montagne_ **Projection**
 
-</div>
-Une ode à la verticalité qui va vous donner des fourmis dans les doigts ! Venez vibrer devant ce récit inspirant où le dépassement de soi rencontre la beauté brute des sommets.
+<br>
 
 </div>
-</div>
-
-<hr>
-
-<div class="col-left">
-<div>
-
-<div class="center">
-
-### LE SON
-
-_DJ Acrino_ **Live Mix**
-
-</div>
-
-Le maître des platines savoyard débarque pour retourner la salle ! Avec son mix explosif Electro, Pop et Urbain, DJ Acrino va transformer les finales en véritable festival. Impossible de rester assis !
-
-</div>
-<div>
-
-<img src="img/animations/dj-acrino.jpg" class="ad-img rot-m2" width="180">
+Quatre amies, une Joëlette et un immense défi : emmener Valentine, jeune fille polyhandicapée, au cœur des sommets. Une aventure solidaire 100% féminine où la force du collectif permet de briser les barrières du handicap. Un film inspirant sur le partage et le dépassement de soi.
 
 </div>
 </div>
+
+<br>
 
 ---
 
@@ -555,20 +576,18 @@ _Trouve un clubs FFCAM_
 
 ---
 
-# EXEMPLE DE LAYOUTS
+<div class="cols2">
 
-<div class="ad-wrapper">
+<div>
 
-  <!-- 1 ligne : 2 pub 1/8 -->
-  <div class="cols2">
-    <img src="pub/0.125/acces-industrie.png" alt="Exemple 1/8 G" class="ad-img rot-m1">
-    <img src="pub/0.125/acces-industrie.png" alt="Exemple 1/8 D" class="ad-img rot-p1">
-  </div>
+<img src="img/photos/06-grimpeuse.jpg" class="ad-img rot-m1" width="85%">
 
-  <!-- 1 ligne : 1 pub 1/4 -->
-  <img src="pub/0.25/besson-tp.jpg" alt="Exemple 1/4" class="ad-img rot-p2">
+</div>
 
-  <!-- 1 ligne : 1 pub 1/2 -->
-  <img src="pub/0.5/Plantaz.png" alt="Exemple 1/2" class="ad-img rot-m2">
+<div>
+
+<img src="img/photos/06-grimpeur.jpg" class="ad-img rot-p1" width="85%">
+
+</div>
 
 </div>
