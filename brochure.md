@@ -6,7 +6,7 @@ header: ""
 footer: ""
 ---
 
-<img src="img/01-Affiche.jpg">
+<img src="img/01-Affiche.jpg" class="ad-img rot-p1">
 
 <!-- _paginate: false -->
 
@@ -28,7 +28,7 @@ footer: ""
 
 <br>
 
-<img src="img/photos/03-grimpeur.jpg" width="600">
+<img src="img/photos/03-grimpeur.jpg" class="ad-img rot-p1" width="650">
 
 ---
 
@@ -136,12 +136,13 @@ _Complexe Sportif du Pays Rochois_
 </div>
 </div>
 
-<img src="img/parking-plan.png">
+<br>
 
-  <!-- Correspond à 190 x 277/4 -->
-  <div class="ad-row-1-4">
-    <div class="ad-slot w-full"><img src="pub/0.25/VJ Menuiseries.jpg" alt="Besson TP" /></div>
-  </div>
+<img src="img/parking-plan.png" class="ad-img rot-p1">
+
+<br>
+
+<img src="pub/0.25/VJ Menuiseries.jpg" alt="Besson TP" class="ad-img rot-m2">
 
 ---
 
@@ -182,25 +183,66 @@ _Finales_
 
 > 💥 Vibrez au rythme des _qualifications_, tremblez pendant les _finales_… et assistez à la naissance des _futures stars_ de l'escalade !
 
-<div class="ad-row-1-4">
-  <div class="ad-slot w-full"><img src="pub/0.25/besson-tp.jpg" alt="Besson TP." /></div>
-</div>
+<br>
+
+<img src="pub/0.25/besson-tp.jpg" alt="Besson TP." class="ad-img rot-p1">
 
 ---
 
 # ANIMATIONS
 
+<div class="cols2">
+<div>
 <br>
+<img src="img/animations/horsnormes.jpg" class="ad-img rot-p1">
+</div>
+<div>
+<div class="center">
+
+### LE SHOW
+
+_Horsnormes_ **Break dance**
+
+</div>
+
+Place au show ! Les prodiges de l'asso bonnevilloise HorsNormes investissent la scène pour une démo de danse urbaine à couper le souffle. Énergie pure, acrobaties et flow dévastateur au programme.
+</div>
+</div>
+
+<br>
+
+<div class="col-left">
+<div>
+<div class="center">
+
+### LE SON
+
+_DJ Acrino_ **Live Mix**
+
+Le maître des platines savoyard débarque pour retourner la salle ! Avec son mix explosif Electro, Pop et Urbain, DJ Acrino va transformer les finales en véritable festival. Impossible de rester assis !
+
+</div>
+</div>
+
+<div>
+
+<img src="img/animations/dj-acrino.jpg" class="ad-img rot-m2">
+
+</div>
+</div>
+
+
 
 <div class="col-right">
 <div>
 
-<img src="img/animations/vale-m.jpg" width="150">
+<img src="img/animations/vale-m.jpg" class="ad-img rot-p2">
 
 </div>
 <div>
 
 <div class="center">
+<br>
 
 ### LE FILM
 
@@ -230,33 +272,11 @@ Le maître des platines savoyard débarque pour retourner la salle ! Avec son mi
 </div>
 <div>
 
-<img src="img/animations/dj-acrino.jpg" width="150">
+<img src="img/animations/dj-acrino.jpg" class="ad-img rot-m2" width="180">
 
 </div>
 </div>
 
-<hr>
-
-<div class="col-right">
-<div>
-<br>
-<img src="img/animations/horsnormes.jpg">
-
-</div>
-<div>
-
-<div class="center">
-
-### LE SHOW
-
-_Horsnormes_ **Break dance**
-
-</div>
-
-Place au show ! Les prodiges de l'asso bonnevilloise HorsNormes investissent la scène pour une démo de danse urbaine à couper le souffle. Énergie pure, acrobaties et flow dévastateur au programme.
-
-</div>
-</div>
 
 ---
 
@@ -376,9 +396,7 @@ Déjà qualifiée aux France 4 années de suite ! Pauline est une **habituée de
 #### `TOUT COMPRENDRE` [![w:130](img/qr-regle-du-jeu.png)](https://fjd2026.caflarochebonneville.fr/blog/regles-competition-diff-mode-survie/)
 
 </div>
-<div class="ad-row-1-4">
-<div class="ad-slot w-half"><img src="pub/0.125/paysAGe.jpg">
-</div>
+<div><img src="pub/0.125/paysAGe.jpg" class="ad-img rot-m2">
 </div>
 
 ---
@@ -413,9 +431,7 @@ Déjà qualifiée aux France 4 années de suite ! Pauline est une **habituée de
 #### `TOUT COMPRENDRE` [![w:130](img/qr-dico.png)](https://fjd2026.caflarochebonneville.fr/blog/dico-survie-grimpeurs-championnat-france/)
 
 </div>
-<div class="ad-row-1-4">
-<div class="ad-slot w-half"><img src="pub/0.125/Au langage des Fleurs logo pour fournisseur fond gris.jpg">
-</div>
+<div ><img src="pub/0.125/Au langage des Fleurs logo pour fournisseur fond gris.jpg" class="ad-img rot-m2"></div>
 </div>
 
 ---
@@ -530,19 +546,15 @@ _Trouve un clubs FFCAM_
 <div class="ad-wrapper">
 
   <!-- 1 ligne : 2 pub 1/8 -->
-  <div class="ad-row-1-8">
-    <div class="ad-slot w-half"><img src="pub/0.125/acces-industrie.png" alt="Exemple 1/8 G" /></div>
-    <div class="ad-slot w-half"><img src="pub/0.125/acces-industrie.png" alt="Exemple 1/8 D" /></div>
+  <div class="cols2">
+    <img src="pub/0.125/acces-industrie.png" alt="Exemple 1/8 G" class="ad-img rot-m1">
+    <img src="pub/0.125/acces-industrie.png" alt="Exemple 1/8 D" class="ad-img rot-p1">
   </div>
 
   <!-- 1 ligne : 1 pub 1/4 -->
-  <div class="ad-row-1-4">
-    <div class="ad-slot w-full"><img src="pub/0.25/besson-tp.jpg" alt="Exemple 1/4" /></div>
-  </div>
+  <img src="pub/0.25/besson-tp.jpg" alt="Exemple 1/4" class="ad-img rot-p2">
 
   <!-- 1 ligne : 1 pub 1/2 -->
-  <div class="ad-row-1-2">
-    <div class="ad-slot w-full"><img src="pub/0.5/Plantaz.png" alt="Exemple 1/2" /></div>
-  </div>
+  <img src="pub/0.5/Plantaz.png" alt="Exemple 1/2" class="ad-img rot-m2">
 
 </div>
