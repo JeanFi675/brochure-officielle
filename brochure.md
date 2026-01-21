@@ -103,6 +103,22 @@ footer: ""
 
 ---
 
+<div class="cols2">
+  <img src="pub/0.125/acces-industrie.png" alt="Exemple 1/8 G" class="ad-img rot-m1">
+  <img src="pub/0.125/ag-paysage.jpg" alt="AG Paysage" class="ad-img rot-p1">
+</div>
+
+<br>
+
+<img src="pub/0.5/plantaz-georges-et-fils.png" alt="PLANTAZ Georges et fils" class="ad-img rot-p2">
+
+<br>
+
+<div class="cols2">
+  <img src="pub/0.125/au-langage-des-fleurs.jpg" alt="Au langage des fleurs" class="ad-img rot-p2">
+  <img src="pub/0.125/lastragale-menuiserie.png" alt="L'Astragale Menuiserie" class="ad-img rot-m2">
+</div>
+
 ---
 
 # ACCÈS & STATIONNEMENT
@@ -206,6 +222,7 @@ _Horsnormes_ **Break dance**
 </div>
 
 Place au show ! Les prodiges de l'asso bonnevilloise HorsNormes investissent la scène pour une démo de danse urbaine à couper le souffle. Énergie pure, acrobaties et flow dévastateur au programme.
+
 </div>
 </div>
 
@@ -230,8 +247,6 @@ Le maître des platines savoyard débarque pour retourner la salle ! Avec son mi
 
 </div>
 </div>
-
-
 
 <div class="col-right">
 <div>
@@ -276,7 +291,6 @@ Le maître des platines savoyard débarque pour retourner la salle ! Avec son mi
 
 </div>
 </div>
-
 
 ---
 
