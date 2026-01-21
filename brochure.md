@@ -12,6 +12,8 @@ footer: ""
 
 ---
 
+---
+
 # ÉDITO
 
 > _Le Championnat de France Jeunes débarque en Haute-Savoie !_
@@ -24,9 +26,9 @@ footer: ""
 >
 > L'entrée est **100 % gratuite**, viens vibrer avec nous !
 
-  <div class="ad-row-1-2">
-    <div class="ad-slot w-full"><img src="pub/0.5/Plantaz.png" alt="Plantaz" /></div>
-  </div>
+<br>
+
+<img src="img/photos/03-grimpeur.jpg" width="600">
 
 ---
 
@@ -101,6 +103,13 @@ footer: ""
 
 ---
 
+<div class="ad-row-1-4">
+  <!-- <div class="ad-slot w-half">...</div> -->
+  <div class="ad-slot w-half"><img src="pub/0.125/acces-industrie.jpg" alt="Acces-Industrie" /></div>
+</div>
+
+---
+
 # ACCÈS & STATIONNEMENT
 
 <br>
@@ -141,33 +150,6 @@ _Complexe Sportif du Pays Rochois_
 
 ---
 
-<!-- _class: ad-page -->
-
-<div class="ad-wrapper">
-
-  <!-- RANGÉE 1 : 1/4 de la hauteur (divisé en 2 largeur 1/2) -->
-  <!-- Correspond à vos "1/8" en terme de surface (190/2 x 277/4) -->
-  <div class="ad-row-1-4">
-    <div class="ad-slot w-half"><img src="pub/0.125/Cheeta.png" alt="Cheeta Gauche" /></div>
-    <div class="ad-slot w-half"><img src="pub/0.125/Cheeta.png" alt="Cheeta Droite" /></div>
-  </div>
-
-  <!-- RANGÉE 2 : 1/4 de la hauteur (Pleine largeur) -->
-  <!-- Correspond à 190 x 277/4 -->
-  <div class="ad-row-1-4">
-    <div class="ad-slot w-full"><img src="pub/0.25/Besson TP.jpg" alt="Besson TP" /></div>
-  </div>
-
-  <!-- RANGÉE 3 : 1/2 de la hauteur (Pleine largeur) -->
-  <!-- Correspond à 190 x 277/2 -->
-  <div class="ad-row-1-2">
-    <div class="ad-slot w-full"><img src="pub/0.5/Plantaz.png" alt="Plantaz" /></div>
-  </div>
-
-</div>
-
----
-
 # LE PROGRAMME
 
 <br>
@@ -205,6 +187,10 @@ _Finales_
 
 > 💥 Vibrez au rythme des _qualifications_, tremblez pendant les _finales_… et assistez à la naissance des _futures stars_ de l'escalade !
 
+<div class="ad-row-1-4">
+  <div class="ad-slot w-full"><img src="pub/0.25/besson-tp.jpg" alt="Besson TP." /></div>
+</div>
+
 ---
 
 # ANIMATIONS
@@ -231,6 +217,8 @@ Une ode à la verticalité qui va vous donner des fourmis dans les doigts ! Vene
 </div>
 </div>
 
+<hr>
+
 <div class="col-left">
 <div>
 
@@ -252,7 +240,7 @@ Le maître des platines savoyard débarque pour retourner la salle ! Avec son mi
 </div>
 </div>
 
-<br>
+<hr>
 
 <div class="col-right">
 <div>
