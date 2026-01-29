@@ -50,7 +50,6 @@ footer: ""
 
 </div>
 </div>
-<hr>
 
 <div class="col-right">
 
@@ -66,7 +65,6 @@ footer: ""
 
 </div>
 </div>
-<hr>
 
 <div class="col-right">
 
@@ -83,9 +81,9 @@ footer: ""
 </div>
 </div>
 
-<hr>
-
 <br>
+
+<hr>
 
 <div class="center">
 
@@ -100,6 +98,10 @@ footer: ""
 <img src="img/logos/logo-ffme-horizontal.svg">
 </div>
 </div>
+
+<hr>
+
+> _300 jeunes grimpeurs_, _6 catégories_, un seul objectif: décrocher les titres de _Champions et Championnes de France_
 
 ---
 
@@ -174,7 +176,7 @@ _Complexe Sportif du Pays Rochois_
 
 <br>
 
-<div class="schedule-card rot-m1">
+<div class="schedule-card rot-p1">
 
 <div class="col-left">
 <div>
@@ -198,15 +200,17 @@ _QUALIFICATIONS_
 
 <br>
 
-> 💥 Vibrez au rythme des _qualifications_, tremblez pendant les _finales_… et assistez à la naissance des _futures stars_ de l'escalade !
+<div class="schedule-card rot-m1">
+
+🎫 Entrée **100% gratuite**
+✨ Spectacle **impressionnant garanti**
+🍽️ Buvette et restauration sur place (**CB acceptée**)
+
+</div>
 
 <br>
 
-<img src="img/photos/03-grimpeuse.jpg" class="ad-img rot-p1" width="550">
-
----
-
-<div class="schedule-card rot-m1">
+<div class="schedule-card rot-m2">
 
 <div class="col-left">
 <div>
@@ -231,11 +235,25 @@ Suivi par la **Cérémonie des Podiums**
 
 <br>
 
+---
+
+> 💥 Vibrez au rythme des _qualifications_, tremblez pendant les _finales_… et assistez à la naissance des _futures stars_ de l'escalade !
+
+<br>
+
 <img src="pub/0.25/besson-tp.jpg" alt="Besson TP." class="ad-img rot-p1">
 
 <br>
 
+<div class="cols2">
+
+<div>
+<img src="img/photos/03-grimpeuse.jpg" class="ad-img rot-p1" width="550">
+</div>
+
+<div>
 <img src="img/photos/05-grimpeur.jpg" class="ad-img rot-m2" width="480">
+</div>
 
 ---
 
